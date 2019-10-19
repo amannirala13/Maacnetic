@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Oct 2019 21:27:48 at http://droitthemes.com/html/saasland/home-support.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://droitthemes.com/html/saasland/home-support.html -O1 "D:\My Web Sites\Maccnetic\Abstract Home" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:20	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/index.html (from droitthemes.com/html/saasland/home-support.html)
+21:55:46	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new-home/p-1.png (from droitthemes.com/html/saasland/home-support.html)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/themify-icon/fonts/themify.eot?-fvbane (from droitthemes.com/html/saasland/vendors/themify-icon/themify-icons.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/themify-icon/fonts/themify.eot? (from droitthemes.com/html/saasland/vendors/themify-icon/themify-icons.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/themify-icon/fonts/themify.svg?-fvbane (from droitthemes.com/html/saasland/vendors/themify-icon/themify-icons.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/flaticon/Flaticon.eot (from droitthemes.com/html/saasland/vendors/flaticon/flaticon.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/flaticon/Flaticon.eot? (from droitthemes.com/html/saasland/vendors/flaticon/flaticon.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/flaticon/Flaticon.svg (from droitthemes.com/html/saasland/vendors/flaticon/flaticon.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/owl-carousel/assets/owl.video.play.png (from droitthemes.com/html/saasland/vendors/owl-carousel/assets/owl.carousel.min.css)
+21:55:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/vendors/scroll/mCSB_buttons.png (from droitthemes.com/html/saasland/vendors/scroll/jquery.mCustomScrollbar.min.css)
+21:55:46	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/home2/action_bg.png (from droitthemes.com/html/saasland/css/style.css)
+21:55:48	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/pos/wave_two.png (from droitthemes.com/html/saasland/css/style.css)
+21:56:45	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/Home-color/user.png (from droitthemes.com/html/saasland/home-color.html)
+21:56:45	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/erp-home/img/13.png (from droitthemes.com/html/saasland/home-erp.html)
+21:56:46	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/home4/icon01.png (from droitthemes.com/html/saasland/home-startup.html)
+21:56:46	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/img/home7/iPhonex2.png (from droitthemes.com/html/saasland/home-app-showcase.html)
+21:56:46	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/video_img_02.jpg (from droitthemes.com/html/saasland/home-digital-marketing-two.html)
+21:56:47	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/work-default.html (from droitthemes.com/html/saasland/home-digital-marketing-two.html)
+21:56:51	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/process/process_2.png (from droitthemes.com/html/saasland/process.html)
+21:56:55	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/case/case_10.jpg (from droitthemes.com/html/saasland/case-study.html)
+21:56:56	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/case/case_details_02.jpg (from droitthemes.com/html/saasland/case-study-details.html)
+21:57:13	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/team/team_10.jpg (from droitthemes.com/html/saasland/team.html)
+21:57:18	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/portfolio/full-width/full_img_5.jpg (from droitthemes.com/html/saasland/portfolio-fullwidth-3columns.html)
+21:57:18	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/portfolio/full-width/mas-4col-1.jpg (from droitthemes.com/html/saasland/portfolio-mas-4col.html)
+21:57:20	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/portfolio-details/pr_details4.jpg (from droitthemes.com/html/saasland/portfolio-details-1.html)
+21:57:22	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/sign1.html (from droitthemes.com/html/saasland/shop-grid.html)
+21:57:22	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/blog-grid/post_1.jpg (from droitthemes.com/html/saasland/blog-grid.html)
+21:57:23	Error: 	"Not Found" (404) at link droitthemes.com/html/saasland/home-agency.html (from droitthemes.com/html/saasland/blog-grid-two.html)
+21:57:23	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/blog_grid_6.jpg (from droitthemes.com/html/saasland/blog-grid-two.html)
+21:57:23	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/post1.jpg (from droitthemes.com/html/saasland/blog-grid-two.html)
+21:57:25	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/blog_img3.jpg (from droitthemes.com/html/saasland/blog-right-sidebar.html)
+21:57:26	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/blog-grid/masonry_10.jpg (from droitthemes.com/html/saasland/blog-masonry.html)
+21:57:26	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/mas_post_img4.jpg (from droitthemes.com/html/saasland/blog-masonry-two.html)
+21:57:35	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/mas_post_img6.jpg (from droitthemes.com/html/saasland/blog-masonry-two.html)
+21:57:35	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/mas_post_img8.jpg (from droitthemes.com/html/saasland/blog-masonry-two.html)
+21:57:39	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/saas/icon/UTorrent.png (from droitthemes.com/html/saasland/header-dark.html)
+21:57:40	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/vendors/font-awesome/css/webfonts/fa-brands-400.ttf (from droitthemes.com/html/saasland/vendors/font-awesome/css/all.css)
+21:57:46	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/vendors/font-awesome/css/webfonts/fa-solid-900.ttf (from droitthemes.com/html/saasland/vendors/font-awesome/css/all.css)
+21:58:25	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/blog-grid/masonry_10.jpg (from droitthemes.com/html/saasland/blog-masonry.html)
+21:58:25	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/new/blog/mas_post_img6.jpg (from droitthemes.com/html/saasland/blog-masonry-two.html)
+21:58:25	Warning: 	Retry after error -4 (No data (connection closed)) at link droitthemes.com/html/saasland/img/saas/icon/UTorrent.png (from droitthemes.com/html/saasland/header-dark.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 44 seconds : 971 links scanned, 929 files written (52983433 bytes overall) [44507540 bytes received at 24136 bytes/sec], 10955966 bytes transferred using HTTP compression in 173 files, ratio 16%, 4.3 requests per connection
+(13 errors, 28 warnings, 0 messages)
